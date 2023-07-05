@@ -1,0 +1,7 @@
+import pandas 
+a=10
+b=20
+A=30
+print(a+b,a+A) 
+
+output - 30 40
